@@ -1,1 +1,2 @@
 Hi TOP! How's it going?
+Changes to test commit messages with VS.
